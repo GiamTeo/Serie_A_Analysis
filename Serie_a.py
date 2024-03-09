@@ -28,7 +28,7 @@ for index, row in df.iterrows(): # itero il df
 # punti = list(punteggi.values())
 # plt.plot(giornate, punti, marker=".")
         
-squadre = ["Inter", "Juventus","Napoli","Lazio", "Milan", "Roma", "Atalanta", "Fiorentina", "Torino", "Bologna"]
+squadre = ["Inter", "Juventus", "Napoli", "Lazio", "Milan", "Roma", "Atalanta", "Fiorentina", "Torino", "Bologna"]
 # punti = [punteggi[squadra] for squadra in squadre]
 # plt.plot(squadre, punti, marker="o")
 # plt.title('Punti')
