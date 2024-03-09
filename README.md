@@ -3,7 +3,7 @@ In this repository there's my project about Serie A championship of season 2022/
 
 INTRODUZIONE
 
-Negli ultimi tempi mi sono molto appassionato alla data analysis e quindi ho deciso di creare un progetto proprio su questo argomento, intrecciandolo con una delle mie più grandi passioni, il calcio. L'obiettivo di questo progetto era quello di apprendere nuove nozioni di python, ma anche proprio mettere mano ad un vero dataset preso da kaggle. 
+Negli ultimi tempi mi sono molto appassionato alla data analysis e quindi ho deciso di creare un progetto proprio su questo argomento, intrecciandolo con una delle mie più grandi passioni, il calcio. L'obiettivo di questo progetto era quello di apprendere nuove nozioni di python, ma anche proprio mettere mano ad un vero dataset preso da kaggle e usare un nuovo ambiente di sviluppo ovvero Google Colab.
 
 IDEA
 
@@ -15,3 +15,4 @@ Per poter redigere questo progetto ho inizialmente cercato del materiale online 
 
 ![download](https://github.com/GiamTeo/Serie_A_Analysis/assets/116298717/56935658-545e-4f95-8373-10c8c4d736f6)
 
+Successivamente mi sono informato anche per quanto riguarda Google Colab ed ho scoperto che è una piattaforma basata su cloud che consente di scrivere e eseguire codice Python attraverso il tuo browser. Ultimamente molti utenti stanno usando questi strumenti poichè sono gratuiti e offrono GPU e RAM a tutti gli utenti che hanno un account Google. 
