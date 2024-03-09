@@ -16,3 +16,6 @@ Per poter redigere questo progetto ho inizialmente cercato del materiale online 
 ![download](https://github.com/GiamTeo/Serie_A_Analysis/assets/116298717/56935658-545e-4f95-8373-10c8c4d736f6)
 
 Successivamente mi sono informato anche per quanto riguarda Google Colab ed ho scoperto che è una piattaforma basata su cloud che consente di scrivere e eseguire codice Python attraverso il tuo browser. Ultimamente molti utenti stanno usando questi strumenti poichè sono gratuiti e offrono GPU e RAM a tutti gli utenti che hanno un account Google. 
+
+![download](https://github.com/GiamTeo/Serie_A_Analysis/assets/116298717/b000e7b0-611d-44cc-b01f-7ea1589cffd3)
+
