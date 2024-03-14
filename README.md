@@ -19,3 +19,6 @@ Successivamente mi sono informato anche per quanto riguarda Google Colab ed ho s
 
 ![download](https://github.com/GiamTeo/Serie_A_Analysis/assets/116298717/b000e7b0-611d-44cc-b01f-7ea1589cffd3)
 
+REALIZZAZIONE PROGETTO
+Questo progetto è stato ideato e realizzato come "Capolavoro" per l'anno scolastico 2023/2024. Ho iniziato la realizzazione del progetto nel mese di Gennaio 2024, dopo aver seguito alcuni corsi su argomenti come la Data Analysis e il linguaggio Python. Ho deciso di sviluppare questo progetto su Google Colab perchè a scuola, tramite i miei compagni e i miei insegnanti, ne avevo sentito parlato molto bene. All'interno del progetto troviamo una analisi semplificata della stagione di Serie A 2022-2023, quando ad alzare lo scudetto fu stato il Napoli. Questo programma permette all'utente di poter analizzare la stagione di ogni singola squadra partecipante, vedendo quanti gol ha segnato, quanti ne ha subiti, tutti i riusltati delle partite stagionali, la classifica finale e anche la formazione che l'allenatore ha schierato più spesso. 
+
