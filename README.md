@@ -31,6 +31,10 @@ Questo progetto è stato ideato e realizzato come "Capolavoro" per l'anno scolas
 
 ![image](https://github.com/GiamTeo/Serie_A_Analysis/assets/116298717/530676a1-e0ee-4ec2-8620-d89b8dd267b5)
 
+DIFFICOLTA'
+-
+Le difficoltà riscontrate nella realizzazione di questo progetto sono state molteplici, in primis ho lavorato su un ambiente di programmazione diverso da quello che usavo abitualmente e quindi inizialemte mi sono sentito un po' spaesato. Successivamente ho avuto difficoltà nella gestione del DataSet e in alcune delle operazioni che dovevo effettuare su di esso, come, ad esempio, la ricerca dei giocatori schierati più volte dall'allenatore. Per superare queste difficoltà ho utilizzato materiale online che mi spiegava come poter effettuare le operazioni che desideravo. 
+
 
 
 
