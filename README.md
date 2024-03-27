@@ -37,7 +37,7 @@ Le difficoltà riscontrate nella realizzazione di questo progetto sono state mol
 
 CONCLUSIONI
 -
-Questo progetto mi è piaciuto molto poichè combinava sia la mia passione per il calcio, che il mio interesse verso la Data Science, che spero in futuro di poter approfondire. Credo che questo semplice programma con la sua interfaccia possa essere il punto di partenza dei miei studi di statistica. Infatti mi piacerebbe molto poter lavorare ancora con i dati ed estrapolare da essi informazioni interessanti, soprrattutto se parliamo dell'ambito calcistico. 
+Questo progetto mi è piaciuto molto poichè combinava sia la mia passione per il calcio, che il mio interesse verso la Data Science, che spero in futuro di poter approfondire. Credo che questo semplice programma con la sua interfaccia possa essere il punto di partenza dei miei studi di statistica. Infatti mi piacerebbe molto poter lavorare ancora con i dati ed estrapolare da essi informazioni interessanti, soprrattutto se parliamo dell'ambito calcistico. Ho scelto questa tipologia di progetto poichè penso che sso rappresenti il mio "ponte" dalla scuola superiore all'università: infatti durante la scuola secondaria di 2° grado ho studiato Informatica, e quindi anche Python, mentre all'università andrò a conseguire la laurea in scienze statistiche, poichè è una delle materie che più mi affascina. 
 
 
 
