@@ -35,6 +35,9 @@ DIFFICOLTA'
 -
 Le difficoltà riscontrate nella realizzazione di questo progetto sono state molteplici, in primis ho lavorato su un ambiente di programmazione diverso da quello che usavo abitualmente e quindi inizialemte mi sono sentito un po' spaesato. Successivamente ho avuto difficoltà nella gestione del DataSet e in alcune delle operazioni che dovevo effettuare su di esso, come, ad esempio, la ricerca dei giocatori schierati più volte dall'allenatore. Per superare queste difficoltà ho utilizzato materiale online che mi spiegava come poter effettuare le operazioni che desideravo. 
 
+CONCLUSIONI
+-
+Questo progetto mi è piaciuto molto poichè combinava sia la mia passione per il calcio, che il mio interesse verso la Data Science, che spero in futuro di poter approfondire. Credo che questo semplice programma con la sua interfaccia possa essere il punto di partenza dei miei studi di statistica. Infatti mi piacerebbe molto poter lavorare ancora con i dati ed estrapolare da essi informazioni interessanti, soprrattutto se parliamo dell'ambito calcistico. 
 
 
 
