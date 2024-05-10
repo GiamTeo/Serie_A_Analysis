@@ -2,15 +2,15 @@
 In this repository there's my project about Serie A championship of season 2022/23
 
 INTRODUZIONE
-
+-
 Negli ultimi tempi mi sono molto appassionato alla data analysis e quindi ho deciso di creare un progetto proprio su questo argomento, intrecciandolo con una delle mie più grandi passioni, il calcio. L'obiettivo di questo progetto era quello di apprendere nuove nozioni di python, ma anche proprio mettere mano ad un vero dataset preso da kaggle e usare un nuovo ambiente di sviluppo ovvero Google Colab.
 
 IDEA
-
+-
 L'idea iniziale era quella di creare una rappresentazione grafica che mostrava le percentuali di vittorie/sconfitte/pareggi delle varie squadre di serie A nella stagione 2022/23, a partire da un set di dati che comprendeva tutte le partite di quella stagione. Inizialmente dovevo imparare le basi dell'analisi dei dati per poter mettere mano a questo progetto, poi, una volta acquisite tutte le nozioni fondamentali, potevo cominciare a scrivere del codice.
 
 COSA HO STUDIATO?
-
+-
 Per poter redigere questo progetto ho inizialmente cercato del materiale online per quanto riguarda la data analysis, in particolare la football analysis. Ho trovato alcuni progetti su GitHub su questo argomento e ho poi approfondito il codice python utile all'analisi dei dati tramite dei video su numpy, pandas e matplotlib su YouTube. Per seguire i corsi su queste librerie di python, mi sono affidato a delle playlist sul canale YouTube di @EdoardoMidali, in cui ho seguito non solo tutorial su questo argomento ma anche altri video su altri linguaggi di programmazione.
 
 ![download](https://github.com/GiamTeo/Serie_A_Analysis/assets/116298717/56935658-545e-4f95-8373-10c8c4d736f6)
@@ -19,7 +19,25 @@ Successivamente mi sono informato anche per quanto riguarda Google Colab ed ho s
 
 ![download](https://github.com/GiamTeo/Serie_A_Analysis/assets/116298717/b000e7b0-611d-44cc-b01f-7ea1589cffd3)
 
-REALIZZAZIONE PROGETTO
+REALIZZAZIONE PROGETTO 
+-
+Questo progetto è stato ideato e realizzato come "Capolavoro" per l'anno scolastico 2023/2024. Ho iniziato la realizzazione del progetto nel mese di Gennaio 2024, dopo aver seguito alcuni corsi su argomenti come la Data Analysis e il linguaggio Python. Ho deciso di sviluppare questo progetto su Google Colab perchè a scuola, tramite i miei compagni e i miei insegnanti, ne avevo sentito parlato molto bene. All'interno del progetto troviamo una analisi semplificata della stagione di Serie A 2022-2023, quando ad alzare lo scudetto al cielo fu il Napoli. Questo programma permette all'utente di poter analizzare la stagione di ogni singola squadra partecipante, vedendo quanti gol ha segnato, quanti ne ha subiti, quanti tiri ha effettuato, la media del possesso palla, tutti i risultati delle partite stagionali, la classifica finale e anche la formazione che l'allenatore ha schierato più spesso. Tutte queste statistiche, infatti, possono essere scelte e visionate dall'utente grazie all'interfaccia interattiva realizzata. Dal menù a tendina si sceglie la squadra che si vuole analizzare e poi, tramite i bottoni, vengono mostrati i seguenti dati:
+- risultati dell'intera stagione
+- giocatori schierati più spesso
+- totale dei goal segnati e subiti
+- classifica finale, dove è evidenziata la posizione della squadra selezionata
+- tiri totali
+- media del possesso palla
 
-Questo progetto è stato ideato e realizzato come "Capolavoro" per l'anno scolastico 2023/2024. Ho iniziato la realizzazione del progetto nel mese di Gennaio 2024, dopo aver seguito alcuni corsi su argomenti come la Data Analysis e il linguaggio Python. Ho deciso di sviluppare questo progetto su Google Colab perchè a scuola, tramite i miei compagni e i miei insegnanti, ne avevo sentito parlato molto bene. All'interno del progetto troviamo una analisi semplificata della stagione di Serie A 2022-2023, quando ad alzare lo scudetto fu stato il Napoli. Questo programma permette all'utente di poter analizzare la stagione di ogni singola squadra partecipante, vedendo quanti gol ha segnato, quanti ne ha subiti, tutti i riusltati delle partite stagionali, la classifica finale e anche la formazione che l'allenatore ha schierato più spesso. 
+![image](https://github.com/GiamTeo/Serie_A_Analysis/assets/116298717/530676a1-e0ee-4ec2-8620-d89b8dd267b5)
+
+DIFFICOLTA'
+-
+Le difficoltà riscontrate nella realizzazione di questo progetto sono state molteplici, in primis ho lavorato su un ambiente di programmazione diverso da quello che usavo abitualmente e quindi inizialemte mi sono sentito un po' spaesato. Successivamente ho avuto difficoltà nella gestione del DataSet e in alcune delle operazioni che dovevo effettuare su di esso, come, ad esempio, la ricerca dei giocatori schierati più volte dall'allenatore. Per superare queste difficoltà ho utilizzato materiale online che mi spiegava come poter effettuare le operazioni che desideravo. 
+
+CONCLUSIONI
+-
+Questo progetto mi è piaciuto molto poichè combinava sia la mia passione per il calcio, che il mio interesse verso la Data Science, che spero in futuro di poter approfondire. Credo che questo semplice programma con la sua interfaccia possa essere il punto di partenza dei miei studi di statistica. Infatti mi piacerebbe molto poter lavorare ancora con i dati ed estrapolare da essi informazioni interessanti, soprrattutto se parliamo dell'ambito calcistico. Ho scelto questa tipologia di progetto poichè penso che sso rappresenti il mio "ponte" dalla scuola superiore all'università: infatti durante la scuola secondaria di 2° grado ho studiato Informatica, e quindi anche Python, mentre all'università andrò a conseguire la laurea in scienze statistiche, poichè è una delle materie che più mi affascina. 
+
+
 
