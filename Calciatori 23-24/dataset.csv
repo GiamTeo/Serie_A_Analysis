@@ -1,0 +1,31 @@
+id,cognome,squadra,citta,ruolo,mediavoto,gol,assist,ammonizioni,espulsioni
+1,Martinez,Inter,Milano,ATT,6.71,23,2,5,0
+2,Dybala,Roma,Roma,ATT,6.64,13,9,3,0
+3,Osimhen,Napoli,Napoli,ATT,6.43,15,2,4,1
+4,Berardi,Sassuolo,Reggio Emilia,ATT,6.53,9,2,6,0
+5,Calhanoglu,Inter,Milano,CEN,6.48,13,3,5,0
+6,Thuram,Inter,Milano,ATT,6.52,12,6,3,0
+7,Gudmundsson,Genoa,Genova,ATT,6.53,14,3,4,0
+8,Scamacca,Atalanta,Bergamo,ATT,6.29,10,4,1,0
+9,Vlahovic,Juventus,Torino,ATT,6.23,16,3,5,1
+10,Giroud,Milan,Milano,ATT,6.19,14,8,0,1
+11,Koopmeiners,Atalanta,Bergamo,CEN,6.29,12,4,4,0
+12,Lookman,Atalanta,Bergamo,ATT,6.33,9,6,4,0
+13,Soule,Frosinone,Frosinone,CEN,6.58,11,2,3,0
+14,Pulisic,Milan,Milano,CEN,6.35,10,6,2,0
+15,Zirkzee,Bologna,Bologna,ATT,6.36,11,4,8,0
+16,Zapata,Torino,Torino,ATT,6.22,12,3,2,0
+17,Kvaratskhelia,Napoli,Napoli,ATT,6.26,10,5,6,0
+18,Dimarco,Inter,Milano,DIF,6.48,5,6,0,0
+19,Leao,Milan,Milano,ATT,6.34,7,8,5,0
+20,Niang,Empoli,Empoli,ATT,6.08,4,1,0,0
+21,Noslin,Hellas Verona,Verona,ATT,6.18,4,2,1,0
+22,De Ketelaere,Atalanta,Bergamo,CEN,6.28,7,6,1,0
+23,Orsolini,Bologna,Bologna,CEN,6.09,10,2,2,0
+24,Lukaku,Roma,Roma,ATT,5.92,12,3,4,1
+25,Ferguson,Bologna,Bologna,CEN,6.47,6,3,8,0
+26,Chiesa,Juventus,Torino,ATT,6.23,7,2,1,0
+27,Gonzalez,Fiorentina,Firenze,ATT,6.08,9,2,1,0
+28,Politano,Napoli,Napoli,ATT,6.15,8,6,2,1
+29,Luis Alberto,Lazio,Roma,CEN,6.34,5,7,7,0
+30,Ngonge,Napoli,Napoli,ATT,6.04,7,2,6,0
